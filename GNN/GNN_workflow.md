@@ -174,7 +174,7 @@ npc_ai/
 ├── encoder.py         # GNN Encoders (GAT/GCN/GraphSAGE) + weight transfer functions
 ├── decoder.py         # Classification decoders (MLP/Linear)
 ├── main.py            # Main program (data loading + training + visualization + interactive prediction)
-└── GNN开发流程.md      # This document
+└── GNN_workflow.md      # This document
 ```
 
 ## Overall Flow
